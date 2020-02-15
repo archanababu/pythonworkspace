@@ -9,7 +9,7 @@ https://code.visualstudio.com/docs/python/python-tutorial
 
 I've followed the same steps to create my first hello world program in python.
 
-After successfully setup of python in visual studio, now lets configure it to github repository by following these steps 
+After successful setup of python in visual studio, now lets configure it to github repository by following these steps 
 
 1. Goto https://git-scm.com/downloads and download the latest version for your operating system. 
 
