@@ -1,6 +1,6 @@
-#---------------------------
-# VOWEL translation function
-#---------------------------
+#----------------------------------
+# VOWEL translation function example
+#----------------------------------
 
 '''
 You can type multi line comments here
